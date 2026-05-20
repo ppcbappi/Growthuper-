@@ -1,0 +1,6 @@
+{
+  "name": "Growthuper",
+  "description": "Premium analytics agency and digital product selling platform running on React and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
